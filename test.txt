@@ -1,2 +1,0 @@
-This caontains manual and testing code.
-  
